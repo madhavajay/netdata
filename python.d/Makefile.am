@@ -68,6 +68,7 @@ dist_python_DATA = \
     smartd_log.chart.py \
     tomcat.chart.py \
     traefik.chart.py \
+    turbostat.chart.py \
     unbound.chart.py \
     varnish.chart.py \
     w1sensor.chart.py \
